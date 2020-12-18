@@ -1,0 +1,32 @@
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: relative;
+	background-color: #f9f9f9;
+	width: 100%;
+	top:0;
+}
+footer{
+	background-color: #30363d;
+	padding: 30px;
+	color: #999;
+	text-align: center;
+	font-size: 13px;
+	font-weight: 600;
+}
+footer p{
+	margin-bottom: 0;
+}
+h1{
+	font-family: "Catamaran";
+	color-text:#898989;
+}
+
+h2{
+	font-size:12px;
+	padding-right: 20px;
+	
+}
